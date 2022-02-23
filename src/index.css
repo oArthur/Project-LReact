@@ -1,0 +1,10 @@
+body{
+    font-family: Poppins;
+    background-color: rgb(87, 87, 87);
+    color: #fff;
+    text-align: center;
+}
+
+h2,h3{
+    margin: 0;
+}
